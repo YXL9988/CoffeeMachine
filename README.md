@@ -43,3 +43,15 @@ Shutdown command (off)
 * Insert coins
 * View resource report with report
 * Turn off with off
+
+---
+
+### 📚 Acknowledgment
+
+This coffee machine project is based on the "100 Days of Code: The Complete Python Pro Bootcamp" course by **Dr. Angela Yu** on Udemy. 
+Dr. Angela Yu is a highly-regarded coding instructor, the founder of the London App Brewery.
+
+I created this repository as part of my personal study and review of Python fundamentals.
+No major changes were made to the original logic; the main additions are improved structure and documentation via this README.md file.
+
+
