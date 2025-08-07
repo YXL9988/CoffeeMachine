@@ -7,9 +7,13 @@ This project demonstrates object-oriented programming (OOP) concepts such as cla
 #Features
 
 3 drink options: Espresso, Latte, and Cappuccino
+
 Ingredient and resource management
+
 Coin-based payment system with change calculation
+
 Reporting mode to display remaining resources and profit
+
 Shutdown command (off)
 
 #Project Structure
@@ -21,9 +25,13 @@ Shutdown command (off)
 
 
 #Key Concepts Demonstrated
+
 Python OOP with classes and methods
+
 Modular code organization
+
 Realistic command-line user interface
+
 Basic validation for user input and system state
 
 
