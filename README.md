@@ -41,10 +41,10 @@ Basic validation for user input and system state
 
 How to Run
 1. Clone this repo:
-<pre> 
-  ```bash 
+
+ ```bash 
   python main.py   
-</pre>
+ ```
 
 2. Follow the prompt to:
 Order drinks
