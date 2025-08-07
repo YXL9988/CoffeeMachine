@@ -1,5 +1,7 @@
 ☕ Coffee Machine – OOP Python Project
-A simple console-based coffee machine simulation written in Python. This project demonstrates object-oriented programming (OOP) concepts such as classes, inheritance, and encapsulation, as well as a structured approach to managing resources, handling payments, and user interactions.
+A simple console-based coffee machine simulation written in Python. 
+
+This project demonstrates object-oriented programming (OOP) concepts such as classes, inheritance, and encapsulation, as well as a structured approach to managing resources, handling payments, and user interactions.
 
 Features
 3 drink options: Espresso, Latte, and Cappuccino
@@ -39,7 +41,10 @@ Basic validation for user input and system state
 
 How to Run
 1. Clone this repo:
-<pre> ```bash python main.py ``` </pre>
+<pre> 
+  ```bash 
+  python main.py   
+</pre>
 
 2. Follow the prompt to:
 Order drinks
