@@ -6,10 +6,10 @@ This project demonstrates object-oriented programming (OOP) concepts such as cla
 
 ## Features
 
-* **3 drink options: Espresso, Latte, and Cappuccino
-* **Ingredient and resource management
-* **Coin-based payment system with change calculation
-* **Reporting mode to display remaining resources and profit
+* 3 drink options: Espresso, Latte, and Cappuccino
+* Ingredient and resource management
+* Coin-based payment system with change calculation
+* Reporting mode to display remaining resources and profit
 
 Shutdown command (off)
 
@@ -24,10 +24,10 @@ Shutdown command (off)
 
 ## Key Concepts Demonstrated
 
-* **Python OOP with classes and methods
-* **Modular code organization
-* **Realistic command-line user interface
-* **Basic validation for user input and system state
+* Python OOP with classes and methods
+* Modular code organization
+* Realistic command-line user interface
+* Basic validation for user input and system state
 
 
 ## How to Run
@@ -39,7 +39,7 @@ Shutdown command (off)
 
 2. Follow the prompt to:
 
-* **Order drinks
-* **Insert coins
-* **View resource report with report
-* **Turn off with off
+* Order drinks
+* Insert coins
+* View resource report with report
+* Turn off with off
